@@ -1,0 +1,2 @@
+# Deep-learning-
+Deep learning models are capable of solving problems once thought unapproachable. The workshop by Vanderbilt Data Science Institute cover basic theory and frameworks to train your own. How does deep learning work, in theory? How do you go about building a model? What are the skills and background you need to train a model, develop a new model, devise an new architecture, or truly understand how these modesl learn? This workshop cover a high-level introduction, and end with suggestions and resources for next steps.
